@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608396269 source:d:\codeblocksprojects\fellowship-cpp\todo\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+	<conio.h>
+	<process.h>
+
